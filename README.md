@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirolls sabri</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
-
+<img align="right" alt="coding" width="400" height="auto" src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirolls20&label=Profile%20views&color=0e75b6&style=flat" alt="kirolls20" /> </p>
 
 - 🌱 I’m currently learning **Javascript,Django,and oop with python**
