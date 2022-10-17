@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirolls sabri</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
-<img align="right" alt="coding" width="400" height="auto" src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" >
+<kbd><img align="right" alt="coding" width="400" height="auto"  border-radius:"10" src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" ></kbd>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirolls20&label=Profile%20views&color=0e75b6&style=flat" alt="kirolls20" /> </p>
 
 - 🌱 I’m currently learning **Javascript,Django,and oop with python**
@@ -29,5 +29,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kirolls20&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
